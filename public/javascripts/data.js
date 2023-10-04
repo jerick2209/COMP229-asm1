@@ -34,7 +34,7 @@ aboutMeContent = {
       company: "IT-SPAC Technology",
       location: "Pasig, Philippines",
       position: "Software Programmer",
-      date: "August 2015 2020 - September 2017",
+      date: "August 2015 - September 2017",
     },
   ],
 };
