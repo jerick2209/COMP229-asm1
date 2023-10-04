@@ -10,7 +10,7 @@ homeContent = {
 
 aboutMeContent = {
   selfIntroduction:
-    "I am a dedicated software engineer with a deep love for coding and problem-solving. My journey into the world of technology began at a young age when I wrote my first lines of code. Since then, I've been on an exciting path of continuous learning and growth, exploring various programming languages, frameworks, and methodologies.",
+    "I am a dedicated software engineer with a deep love for coding and problem-solving. My journey into the world of technology began at college days when I wrote my first lines of code. Since then, I've been on an exciting path of continuous learning and growth, exploring various programming languages, frameworks, and methodologies.",
   resumeUrl: "https://docs.google.com/document/d/1kANbV2lh-XG8EeQr8um-Ov1tpKJCoOnx6VeaCILzf44/edit",
   education: [
     {
