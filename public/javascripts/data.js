@@ -3,14 +3,14 @@
 homeContent = {
   welcomeMessage: "Welcome to My Website",
   welcomeDescription:
-    "I offer a unique web design experience, providing the best in my Portfolio.",
+    "Welcome to page! I'm Jerick, and I'm passionate about creating innovative software solutions that make a real difference. This is the place where technology meets creativity, and where I share my journey in the world of software development.",
   missionStatement:
-    "We are dedicated to creating beautiful and functional websites that exceed your expectations. Your online presence is our priority.",
+    "My Mission is to leverage my technical expertise to build software that empowers businesses, improves lives, and drives innovation. I believe that software has the power to transform industries and solve complex challenges, and I'm committed to harnessing that power for the greater good.",
 };
 
 aboutMeContent = {
   selfIntroduction:
-    "I'm Jerick, a dedicated and creative individual driven by a passion for technology and innovation. With a background in computer science and a strong interest in software development, I'm constantly exploring the latest tech advancements. Beyond the digital realm, I'm a nature enthusiast who relishes outdoor experiences like hiking in scenic landscapes and capturing the beauty of the natural world through photography. Whether it's coding elegant solutions or framing the perfect shot, I approach each endeavor with unwavering dedication and a relentless thirst for knowledge and growth.",
+    "I am a dedicated software engineer with a deep love for coding and problem-solving. My journey into the world of technology began at a young age when I wrote my first lines of code. Since then, I've been on an exciting path of continuous learning and growth, exploring various programming languages, frameworks, and methodologies.",
   resumeUrl: "https://docs.google.com/document/d/1kANbV2lh-XG8EeQr8um-Ov1tpKJCoOnx6VeaCILzf44/edit",
   education: [
     {
@@ -28,13 +28,6 @@ aboutMeContent = {
       location: "BGC The Fort, Philippines",
       position: "Sr. Software Engineer",
       date: "August 2015 - July 2022",
-    },
-    {
-      logo: "https://static.wixstatic.com/media/c563d8_81b63ec0b7344a24acc34e5505985c30~mv2.jpg",
-      company: "IT-SPAC Technology",
-      location: "Pasig, Philippines",
-      position: "Software Programmer",
-      date: "August 2015 - September 2017",
     },
   ],
 };
