@@ -34,24 +34,24 @@ aboutMeContent = {
 
 projectsContent = [
   {
-    name: "Project 1",
-    description: "Description for Project 1",
+    name: "E-commerce Website Development",
+    description: "Create a full-fledged e-commerce website for a client who wants to start or upgrade their online store.",
     screenShotUrl: "https://www.example.com/project1-screenshot.png",
     details: "Details for Project 1",
     liveDemoUrl: "https://www.example.com/project1-demo",
     githubRepoUrl: "https://www.example.com/project1-repo",
   },
   {
-    name: "Project 2",
-    description: "Description for Project 2",
+    name: "Mobile App for Health and Wellness",
+    description: "Develop a mobile app focused on health and wellness.",
     screenShotUrl: "https://www.example.com/project2-screenshot.png",
     details: "Details for Project 2",
     liveDemoUrl: "https://www.example.com/project2-demo",
     githubRepoUrl: "https://www.example.com/project2-repo",
   },
   {
-    name: "Project 3",
-    description: "Description for Project 3",
+    name: "Machine Learning-Powered Recommendation System",
+    description: "Build a recommendation system that utilizes machine learning algorithms to provide personalized recommendations to users.",
     screenShotUrl: "https://www.example.com/project3-screenshot.png",
     details: "Details for Project 3",
     liveDemoUrl: "https://www.example.com/project3-demo",
