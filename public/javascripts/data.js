@@ -11,30 +11,30 @@ homeContent = {
 aboutMeContent = {
   selfIntroduction:
     "I'm Jerick, a dedicated and creative individual driven by a passion for technology and innovation. With a background in computer science and a strong interest in software development, I'm constantly exploring the latest tech advancements. Beyond the digital realm, I'm a nature enthusiast who relishes outdoor experiences like hiking in scenic landscapes and capturing the beauty of the natural world through photography. Whether it's coding elegant solutions or framing the perfect shot, I approach each endeavor with unwavering dedication and a relentless thirst for knowledge and growth.",
-  resumeUrl: "https://drive.google.com/drive/recent",
+  resumeUrl: "https://docs.google.com/document/d/1kANbV2lh-XG8EeQr8um-Ov1tpKJCoOnx6VeaCILzf44/edit",
   education: [
     {
-      logo: "https://google.com",
-      name: "ABC College",
+      logo: "https://th.bing.com/th?id=OIP.-x7PpKKjo1ctsBRmXd0YNwAAAA&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      name: "Centennial College",
       Location: "Toronto CA",
-      degree: "Bachelor of Science - Physics",
-      date: "Sep 2016 - July 2020",
+      degree: "Software Engineering Technician",
+      date: "January 2022 - April 2024",
     },
   ],
   workExperiences: [
     {
-      logo: "https://company1.com/logo.png",
-      company: "Tech Solutions Inc.",
-      location: "San Francisco, USA",
-      position: "Software Engineer",
-      date: "June 2022 - Present",
+      logo: "https://destini.co/wp-content/uploads/2020/04/safeway-albertsons-logo.png",
+      company: "Albertsons-Safeway Inc.",
+      location: "BGC The Fort, Philippines",
+      position: "Sr. Software Engineer",
+      date: "August 2015 - July 2022",
     },
     {
-      logo: "https://company2.com/logo.png",
-      company: "Innovative Designs Ltd.",
-      location: "London, UK",
-      position: "Web Developer",
-      date: "Jan 2020 - May 2022",
+      logo: "https://static.wixstatic.com/media/c563d8_81b63ec0b7344a24acc34e5505985c30~mv2.jpg",
+      company: "IT-SPAC Technology",
+      location: "Pasig, Philippines",
+      position: "Software Programmer",
+      date: "August 2015 2020 - September 2017",
     },
   ],
 };
