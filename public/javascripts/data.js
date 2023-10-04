@@ -10,8 +10,8 @@ homeContent = {
 
 aboutMeContent = {
   selfIntroduction:
-    "I'm Jarick, a dedicated and creative individual driven by a passion for technology and innovation. With a background in computer science and a strong interest in software development, I'm constantly exploring the latest tech advancements. Beyond the digital realm, I'm a nature enthusiast who relishes outdoor experiences like hiking in scenic landscapes and capturing the beauty of the natural world through photography. Whether it's coding elegant solutions or framing the perfect shot, I approach each endeavor with unwavering dedication and a relentless thirst for knowledge and growth.",
-  resumeUrl: "https://google.com",
+    "I'm Jerick, a dedicated and creative individual driven by a passion for technology and innovation. With a background in computer science and a strong interest in software development, I'm constantly exploring the latest tech advancements. Beyond the digital realm, I'm a nature enthusiast who relishes outdoor experiences like hiking in scenic landscapes and capturing the beauty of the natural world through photography. Whether it's coding elegant solutions or framing the perfect shot, I approach each endeavor with unwavering dedication and a relentless thirst for knowledge and growth.",
+  resumeUrl: "https://drive.google.com/drive/recent",
   education: [
     {
       logo: "https://google.com",
