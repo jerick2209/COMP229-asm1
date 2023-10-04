@@ -3,7 +3,7 @@
 homeContent = {
   welcomeMessage: "Welcome to My Website",
   welcomeDescription:
-    "Welcome to page! I'm Jerick, and I'm passionate about creating innovative software solutions that make a real difference. This is the place where technology meets creativity, and where I share my journey in the world of software development.",
+    "Welcome to my page! I'm Jerick, and I'm passionate about creating innovative software solutions that make a real difference. This is the place where technology meets creativity, and where I share my journey in the world of software development.",
   missionStatement:
     "My Mission is to leverage my technical expertise to build software that empowers businesses, improves lives, and drives innovation. I believe that software has the power to transform industries and solve complex challenges, and I'm committed to harnessing that power for the greater good.",
 };
