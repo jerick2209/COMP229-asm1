@@ -37,7 +37,7 @@ projectsContent = [
     name: "E-commerce Website Development",
     description: "Create a full-fledged e-commerce website for a client who wants to start or upgrade their online store.",
     screenShotUrl: "/images/p1.jpeg",
-    details: "Details for Project 1",
+    details: "Details for Project 1 : E-commerce website development involves creating an online store for a client. This includes designing a user-friendly website, adding products, setting up secure payment options, and making sure everything runs smoothly.",
     liveDemoUrl: "https://www.example.com/project1-demo",
     githubRepoUrl: "https://www.example.com/project1-repo",
   },
