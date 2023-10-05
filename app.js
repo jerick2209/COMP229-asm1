@@ -1,4 +1,4 @@
-// NAME | STUDENT ID | DATE
+// Jerick Paraso | 301268477 | 09-27-2023
 const express = require("express");
 const bodyParser = require("body-parser");
 const app = express();
