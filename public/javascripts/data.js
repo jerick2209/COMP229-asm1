@@ -11,7 +11,7 @@ homeContent = {
 aboutMeContent = {
   selfIntroduction:
     "I am a dedicated software engineer with a deep love for coding and problem-solving. My journey into the world of technology began at college days when I wrote my first lines of code. Since then, I've been on an exciting path of continuous learning and growth, exploring various programming languages, frameworks, and methodologies.",
-  resumeUrl: "/public/JAP CV CA Format.pdf",
+  resumeUrl: "/public/resume.pdf",
   education: [
     {
       logo: "https://th.bing.com/th?id=OIP.-x7PpKKjo1ctsBRmXd0YNwAAAA&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
