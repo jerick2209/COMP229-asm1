@@ -1,4 +1,4 @@
-// NAME | STUDENT ID | DATE
+// Jerick Paraso | 301268477 | 09-28-2023
 const express = require("express");
 const {
   homeContent,
