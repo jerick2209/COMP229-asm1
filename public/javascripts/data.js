@@ -36,7 +36,7 @@ projectsContent = [
   {
     name: "E-commerce Website Development",
     description: "Create a full-fledged e-commerce website for a client who wants to start or upgrade their online store.",
-    screenShotUrl: "/images/p1.jpg",
+    screenShotUrl: "/images/p1.jpeg",
     details: "Details for Project 1",
     liveDemoUrl: "https://www.example.com/project1-demo",
     githubRepoUrl: "https://www.example.com/project1-repo",
@@ -44,7 +44,7 @@ projectsContent = [
   {
     name: "Mobile App for Health and Wellness",
     description: "Develop a mobile app focused on health and wellness.",
-    screenShotUrl: "/images/p2.jpg",
+    screenShotUrl: "/images/p2.jpeg",
     details: "Details for Project 2",
     liveDemoUrl: "https://www.example.com/project2-demo",
     githubRepoUrl: "https://www.example.com/project2-repo",
@@ -52,7 +52,7 @@ projectsContent = [
   {
     name: "Machine Learning-Powered Recommendation System",
     description: "Build a recommendation system that utilizes machine learning algorithms to provide personalized recommendations to users.",
-    screenShotUrl: "/images/p3.jpg",
+    screenShotUrl: "/images/p3.jpeg",
     details: "Details for Project 3",
     liveDemoUrl: "https://www.example.com/project3-demo",
     githubRepoUrl: "https://www.example.com/project3-repo",
