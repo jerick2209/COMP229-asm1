@@ -1,4 +1,4 @@
-// NAME | STUDENT ID | DATE
+// Jerick Paraso | 301268477 | 10-04-2023
 
 homeContent = {
   welcomeMessage: "Welcome to My Website",
